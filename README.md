@@ -1,6 +1,5 @@
 ### “First, solve the problem. Then, write the code.” – John Johnson
 
-- 🔭 I’m currently working on UserGate company
 - 🌱 I’m currently learning Networks, Neural Networks, Distributed Systems And Transactions
 
 ### Links:
