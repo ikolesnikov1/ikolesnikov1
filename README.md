@@ -23,8 +23,9 @@
 ## Pins:
 
 [![DjangoRestFramework](https://github-readme-stats.vercel.app/api/pin/?username=ikolesnikov1&repo=database_project&theme=gotham&cache_seconds=2000)](https://github.com/ikolesnikov1/database_project)
+[![](https://github-readme-stats.vercel.app/api/pin/?username=ikolesnikov1&repo=BannersCategoriesApplication&theme=gotham&cache_seconds=2000)](https://github.com/ikolesnikov1/BannersCategoriesApplication)
 [![Socks](https://github-readme-stats.vercel.app/api/pin/?username=ikolesnikov1&repo=SOCKS-proxy&theme=gotham&cache_seconds=2000)](https://github.com/ikolesnikov1/SOCKS-proxy)
 [![TCPServer](https://github-readme-stats.vercel.app/api/pin/?username=ikolesnikov1&repo=SimpleTCPServerJava&theme=gotham&cache_seconds=2000)](https://github.com/ikolesnikov1/SimpleTCPServerJava)
 [![X0JAVA](https://github-readme-stats.vercel.app/api/pin/?username=ikolesnikov1&repo=Java_Lab3_SImple_XOGame&theme=gotham&cache_seconds=2001)](https://github.com/ikolesnikov1/Java_Lab3_SImple_XOGame)
 [![X0C++](https://github-readme-stats.vercel.app/api/pin/?username=ikolesnikov1&repo=lab3_SimpleX0Game&theme=gotham&cache_seconds=2000)](https://github.com/ikolesnikov1/lab3_SimpleX0Game)
-[![](https://github-readme-stats.vercel.app/api/pin/?username=ikolesnikov1&repo=lab2_StackCalculator&theme=gotham&cache_seconds=2000)](https://github.com/ikolesnikov1/lab2_StackCalculator)
+[![](https://github-readme-stats.vercel.app/api/pin/?username=ikolesnikov1&repo=BannersCategoriesApplication&theme=gotham&cache_seconds=2000)](https://github.com/ikolesnikov1/BannersCategoriesApplication)
